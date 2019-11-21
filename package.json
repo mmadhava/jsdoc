@@ -1,0 +1,16 @@
+{
+  "name": "node-jsdoc",
+  "version": "1.0.0",
+  "description": "Jsdoc helps to generate the code documentation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahesh M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdoc": "^3.6.3",
+    "shelljs": "^0.8.3"
+  }
+}
